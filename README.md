@@ -24,7 +24,7 @@ Para poder ejecutar el programa se requiere lo siguiente:
 
 1. **Versión:** Java 25 o superior
 2. **JavaFX:** Es necesario tener instalado y configurado el SDK de JavaFX en tu equipo.
-3. **IDE:** NetBeans (recomendado) o cualquier otro IDE compatible con proyectos Java y JavaFX.
+3. **IDE:** NetBeans o cualquier otro IDE compatible con proyectos Java y JavaFX.
 
 
 Proyecto desarrollado con fines académicos
