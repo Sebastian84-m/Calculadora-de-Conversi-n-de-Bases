@@ -22,6 +22,6 @@ Este proyecto es un sistema desarrollado en **Java** que permite realizar conver
 
 Para poder ejecutar el programa se requiere lo siguiente:
 
-1. **Java Development Kit (JDK):** Versión 17 o superior
+1. **Version:** Java 17 o superior
 2. **JavaFX:** Es necesario tener instalado y configurado el SDK de JavaFX en tu equipo.
-3. **IDE Compatible:** NetBeans (recomendado) o cualquier otro IDE compatible con proyectos Java y JavaFX (como IntelliJ IDEA o Eclipse).
+3. **IDE:** NetBeans (recomendado) o cualquier otro IDE compatible con proyectos Java y JavaFX.
